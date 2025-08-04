@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+textblob
+lightgbm
+# Only include the packages you actually use. Add any others as needed.
